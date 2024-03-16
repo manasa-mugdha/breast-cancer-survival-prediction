@@ -37,6 +37,6 @@ The script initializes and trains a Support Vector Machine (SVM) model using Sci
 <h2>Prediction:</h2>
 The trained model performs predictions on sample features representing a patient and displays the predicted patient survival status.
 
-
+<br> 
 
 **Note: This script assumes the presence of the dataset file "BRCA.csv" in the same directory. Users can modify the feature mapping and adjust the model parameters as needed for their specific analysis.**
